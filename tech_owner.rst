@@ -33,7 +33,7 @@ Technologie die door een substantieel deel van ontwikkelaars wordt gedeeld en ni
 Critical business tech
 ----------------------
 
-Technologie die primaire business processen ondersteunt en dus kritiek is voor het bedrijf, hier zijn tech owners zeer belangrijk. Uiteindelijk is het doel om deze tech te 'promoveren' tot `shared tech`_
+Technologie die primaire business processen ondersteunt en dus kritiek is voor het bedrijf, hier zijn tech owners zeer belangrijk. Uiteindelijk is het doel om deze tech te 'promoveren' tot `shared tech`_.
 
 **VMWare** 1. Daniel 2. Nils
 
@@ -53,7 +53,7 @@ Technologie die primaire business processen ondersteunt en dus kritiek is voor h
 **Webpack** 1. Gijs 2. ?
 
 
-**Grunt & Bower** 1. Frit 2. Ernst
+**Grunt & Bower** 1. Fritz 2. Ernst
 
 
 **Raster-store** 1. Arjan 2. ?

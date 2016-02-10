@@ -1,8 +1,3 @@
-.. WOM documentation master file, created by
-   sphinx-quickstart on Tue Feb  9 20:17:44 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 .. toctree::
     :maxdepth: 1
     :hidden:
@@ -14,9 +9,13 @@
 WOM
 ===
 
-Het doel van de WOM is het garanderen van een ondergrens aan de **kwaliteit** van de software en gerelateerde IT diensten die Nens levert en zorgen dat die software zo **snel** mogelijk in productie komt.
+Het doel van de WOM is het garanderen van een ondergrens aan de **kwaliteit**
+van de software en gerelateerde IT diensten die Nens levert en zorgen dat die
+software zo **snel** mogelijk in productie komt.
 
-Klanten kopen geen software van Arjen of Reinout maar van Nens. Hoe zorgen we er voor dat de **kwaliteit van de software** een **eigenschap** wordt van de **organisatie** in plaats van van een persoon?
+Klanten kopen geen software van Arjen of Reinout maar van Nens. Hoe zorgen we
+er voor dat de **kwaliteit van de software** een **eigenschap** wordt van de
+**organisatie** in plaats van van een persoon?
 
 Uitgangspunten:
 
@@ -30,13 +29,18 @@ Uitgangspunten:
 
 Maak gebruik van de ervaring en expertise in de organisatie:
 
-* *Elke* ontwikkelaar dient *voordat* hij of zij begint met een feature het ontwerp van deze feature met een (of meerdere) senior ontwikkelaar(s) door te spreken. Dat kan met een potloodkrabbel en vijf minuutjes sparren of via een RFC op github of tijdens de lunch of aan de bar, wat je maar wilt.
+* *Elke* ontwikkelaar dient *voordat* hij of zij begint met een feature het
+  ontwerp van deze feature met een (of meerdere) senior ontwikkelaar(s) door
+  te spreken. Dat kan met een potloodkrabbel en vijf minuutjes sparren of via
+  een RFC op github of tijdens de lunch of aan de bar, wat je maar wilt.
 
 * Een pull request (PR) wordt gereviewed door een senior ontwikkelaar.
 
-* We kennen :doc:`1 manier van software ontwikkelen <workflow>` om uitwisseling van ontwikkelaars zo goedkoop mogelijk te maken.
+* We kennen :doc:`één manier van software ontwikkelen <workflow>` om
+  uitwisseling van ontwikkelaars zo goedkoop mogelijk te maken.
 
-Senior ontwikkelaars zijn: Arjan, Reinout, Jack, Sander, Carsten, Berto (Python) en Ernst (Javascript).
+Senior ontwikkelaars zijn: Arjan, Reinout, Jack, Sander, Carsten, Berto
+(Python) en Ernst (Javascript).
 
 
 2. Performance budget
@@ -44,4 +48,5 @@ Senior ontwikkelaars zijn: Arjan, Reinout, Jack, Sander, Carsten, Berto (Python)
 
 Een :doc:`performance budget <performance_budget>` als proxy voor kwaliteit:
 
-    Aan het eind van 2016 moet *elke* HTTP request die het pand binnenkomt van buiten binnen **300 ms** een response opgeleverd hebben.
+    Aan het eind van 2016 moet *elke* HTTP request die het pand binnenkomt van
+    buiten binnen **300 ms** een response opgeleverd hebben.

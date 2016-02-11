@@ -6,9 +6,13 @@ Collection of best practices for software development @nens. Documents are writt
 Setup
 -----
 
-    pip install -r requirements.txt
+Note: no buildout. Create a virtualenv and install with pip::
+
+    $ pip install -r requirements.txt
 
 Build docs
 ----------
 
-    make html
+Sphinx has a makefile::
+
+    $ make html

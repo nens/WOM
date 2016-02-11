@@ -1,42 +1,70 @@
 Tech owner
 ==========
 
-Bij nens is veel vrijheid om met nieuwe technologieen te experimenteren en die in productie te nemen. Dat maakt ons flexibel maar ook kwetsbaar als we niet de verantwoordelijkheid oppakken die bij die vrijheid hoort.
+Bij nens is veel vrijheid om met nieuwe technologieen te experimenteren en die
+in productie te nemen. Dat maakt ons flexibel maar ook kwetsbaar als we niet de
+verantwoordelijkheid oppakken die bij die vrijheid hoort.
 
-Meestel begint het experimenteren met nieuwe technologie op basis van interesse of skills van 1 persoon. Maar zo gauw die technologie rijp is voor productie is het van belang de kennis van de technologie in de organisatie te borgen.
+Meestal begint het experimenteren met nieuwe technologie op basis van interesse
+of skills van 1 persoon. Maar zo gauw die technologie rijp is voor productie is
+het van belang de kennis van de technologie in de organisatie te borgen.
 
-Om dat te doen moet degene die de technologie in productie wil nemen er voor zorgen dat hij een mede tech owner vindt. Tech owners zijn verantwoordelijk voor de adaptatie en inbedding van de technologie in het bedrijf.
+Om dat te doen moet degene die de technologie in productie wil nemen er voor
+zorgen dat hij of zij een mede tech owner vindt. Tech owners zijn
+verantwoordelijk voor de adaptatie en inbedding van de technologie in de
+organisatie.
 
-Het is niet de bedoeling dat *iedere* library of dependency een tech owner moet krijgen. Er is een verschil tussen het gebruik van een Javascript helper library als lodash of moment en het virtualiseren van een datacentrum met Mesos.
+Daar hoort ook bij dat de tech owner een budget opstelt. Adaptatie van een
+nieuwe technologie kost geld. Iedere extra service ("laten we sentry
+gebruiken") is een website die op een server staat die elke twee jaar
+verplaatst moet worden bij een OS update. En die up-to-date gehouden moet
+worden. Het ècht in productie nemen van iets betekent extra werk. Daar moet
+tijd & budget voor vrijgemaakt worden.
 
-**TODO:** verantwoordelijkheden tech owner uitschrijven.
+Het is niet de bedoeling dat *iedere* library of dependency een tech owner moet
+krijgen. Er is een verschil tussen het gebruik van een Javascript helper
+library als `lodash <https://lodash.com/>`_ of `moment <http://momentjs.com/>`_
+en het virtualiseren van een datacentrum met
+`mesos <https://mesos.apache.org/>`_.
+
+**TODO:** verantwoordelijkheden tech owner verder uitwerken.
 
 
 Common tech
 -----------
 
-Technologie die iedereen verondersteld wordt te beheersen, hiervoor zijn geen tech owners:
-
-    pip, git, buildout, django, postgresql, sphinx, ubuntu, vagrant + lxc, ...
+Technologie die iedereen verondersteld wordt te beheersen, hiervoor zijn geen
+tech owners: pip, git, buildout, django, postgresql, sphinx, ubuntu, vagrant +
+lxc, ...
 
 
 Shared tech
 -----------
 
-Technologie die door een substantieel deel van ontwikkelaars wordt gedeeld en niet als risico wordt gezien:
+Technologie die door een substantieel deel van ontwikkelaars wordt gedeeld en
+niet als risico wordt gezien: redis, django rest framework, postgis, celery +
+flower, factory boy, numpy, pandas, css, supervisor, gunicorn, nginx,
+tilestache, nose, bootstrap, ...
 
-    Redis, Django Rest Framework, PostGIS, Celery + Flower, Factory Boy, Numpy, Pandas, CSS, supervisor, gunicorn, nginx, TileStache, nose, Bootstrap, ...
+Een deel van deze tech wordt **indirect** gebruikt en gaat eigenlijk nooit
+stuk en wordt daarom niet gezien als bedrijfskritsch.
 
-**TODO:** misschien is het toch verstandigheid om aan enkele van deze techs wat namen te hangen?
+**TODO:** misschien is het toch verstandig om aan enkele van deze techs wat
+namen te hangen?
 
 
 Critical business tech
 ----------------------
 
-Technologie die primaire business processen ondersteunt en dus kritiek is voor het bedrijf, hier zijn tech owners zeer belangrijk. Uiteindelijk is het doel om deze tech te 'promoveren' tot `shared tech`_.
+Technologie die primaire business processen ondersteunt en dus kritiek is voor
+het bedrijf, hier zijn tech owners zeer belangrijk. Uiteindelijk is het doel om
+deze tech te 'promoveren' tot `shared tech`_.
+
 
 External
 ^^^^^^^^
+
+Technologie die niet door nens ontwikkeld wordt.
 
 **VMWare** 1. Daniel 2. Nils
 
@@ -83,7 +111,7 @@ External
 Internal
 ^^^^^^^^
 
-Bij nens ontwikkelde tech.
+Door nens ontwikkelde technologie.
 
 **Raster-store** 1. Arjan 2. ?
 

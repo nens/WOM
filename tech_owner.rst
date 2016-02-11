@@ -35,6 +35,9 @@ Critical business tech
 
 Technologie die primaire business processen ondersteunt en dus kritiek is voor het bedrijf, hier zijn tech owners zeer belangrijk. Uiteindelijk is het doel om deze tech te 'promoveren' tot `shared tech`_.
 
+External
+^^^^^^^^
+
 **VMWare** 1. Daniel 2. Nils
 
 
@@ -56,12 +59,6 @@ Technologie die primaire business processen ondersteunt en dus kritiek is voor h
 **Grunt & Bower** 1. Fritz 2. Ernst
 
 
-**Raster-store** 1. Arjan 2. ?
-
-
-**Raster-server** 1. Arjan 2. ?
-
-
 **Ansible** 1. Sander 2. Arjen
 
 
@@ -81,6 +78,17 @@ Technologie die primaire business processen ondersteunt en dus kritiek is voor h
 
 
 **Docker** 1. Sander 2. ?
+
+
+Internal
+^^^^^^^^
+
+Bij nens ontwikkelde tech.
+
+**Raster-store** 1. Arjan 2. ?
+
+
+**Raster-server** 1. Arjan 2. ?
 
 
 **TODO:**

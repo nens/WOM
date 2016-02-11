@@ -53,4 +53,4 @@ Een :doc:`performance budget <performance_budget>` als proxy voor kwaliteit:
 3. Tech owner
 -------------
 
-Je bent **volledig vrij** om nieuwe technologie te ontdekken en te introduceren (frameworks, talen, OS, deployment technieken, test strategie, version control, ...) maar zo gauw iets in productie gaat ben je eigenaar (:doc:`tech owner <tech_owner>`) van die technologie en **verantwoordelijk** om minstens 1 mede eigenaar te vinden. Zo lang jij de enige tech owner bent gaat het niet in productie.
+Je bent **vrij** om nieuwe technologie te ontdekken en te introduceren (frameworks, talen, OS, deployment technieken, test strategie, version control, ...) maar zo gauw iets in productie gaat ben je eigenaar (:doc:`tech owner <tech_owner>`) van die technologie en **verantwoordelijk** om minstens 1 mede-eigenaar te vinden. Zo lang jij de enige tech owner bent gaat het niet in productie.

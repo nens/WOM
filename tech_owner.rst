@@ -64,7 +64,8 @@ deze tech te 'promoveren' tot `shared tech`_.
 External
 ^^^^^^^^
 
-Technologie die niet door nens ontwikkeld wordt.
+Technologie die niet door nens ontwikkeld wordt. Tech owners achter de topics,
+kandidaat owners cursief.
 
 **VMWare** 1. Daniel 2. Nils
 
@@ -102,10 +103,12 @@ Technologie die niet door nens ontwikkeld wordt.
 **Mesos & Marathon** 1. Sander 2. ?
 
 
-**Logstash & Kibana** 1. Sander 2. ?
+**Logstash & Kibana** 1. Sander 2. *Lex*
 
 
-**Docker** 1. Sander 2. ?
+**Docker** 1. Sander 2. *Jack*, *Nils*, *Lars*
+
+**QGIS plugins** 1. ? 2. ?
 
 
 Internal

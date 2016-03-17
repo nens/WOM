@@ -4,6 +4,7 @@
 
     workflow
     performance_budget
+    tech_owner
 
 
 WOM
@@ -22,6 +23,8 @@ Uitgangspunten:
 1. Gebruik **ervaring en expertise** in de organisatie.
 
 2. Stel een **performance budget** in.
+
+3. **Vrijheid** komt met **verantwoordelijkheid**: tech owners.
 
 
 1. Gebruik ervaring en expertise
@@ -50,3 +53,15 @@ Een :doc:`performance budget <performance_budget>` als proxy voor kwaliteit:
 
     Aan het eind van 2016 moet *elke* HTTP request die het pand binnenkomt van
     buiten binnen **300 ms** een response opgeleverd hebben.
+
+
+3. Tech owner
+-------------
+
+Je bent **vrij** om nieuwe technologie te ontdekken en te introduceren
+(frameworks, talen, OS, deployment technieken, test strategie, version control,
+...) maar zo gauw iets in productie gaat ben je eigenaar
+(:doc:`tech owner <tech_owner>`) van die technologie en **verantwoordelijk**
+voor de kosten van implementatie en om minstens 1 mede-eigenaar te vinden. Zo
+lang je de enige tech owner bent gaat het niet in productie.
+

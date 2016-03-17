@@ -1,8 +1,12 @@
 Workflow
 ========
 
-**Don't make me think:** this is how we do develop release and manage
+**Don't make me think:** this is how we do develop, release and manage
 software.
+
+**NOTE / TODO:** dit is een kopie van de workflow zoals die bij het Lizard team
+geevolueerd is. Lizard specifieke dingen moeten er uit en wat niet meer
+relevant is moet geupdate worden.
 
 **Development:**
 
@@ -108,7 +112,8 @@ in**. Steps are partly based on `requirements of maintenance
 
 **Sprint done:**
 
-Each sprint a person is appointed who is responsible for successful end of the sprint (runs this checklist).
+Each sprint a person is appointed who is responsible for successful end of the
+sprint (runs this checklist).
 
 * Check open features / PR 2 days before sprint end.
 * All PR reviewed and merged.
